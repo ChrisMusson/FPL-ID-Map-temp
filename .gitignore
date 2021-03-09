@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+masterTEST.csv
+html.txt
+testing.py
